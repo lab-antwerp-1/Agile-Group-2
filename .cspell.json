@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "words": [],
+  "words": ["shit"],
   "ignorePaths": [
     "node_modules/**",
     "package.json",

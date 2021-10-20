@@ -1,6 +1,19 @@
-# (project name)
+# The Cake Factory @ Antwerpen
 
-<!-- describe your project -->
+**Our mission: to create a unique, different, original space, a place full of
+fresh, original and innovative ideas ... and transform all that into a delicious
+cake.**
+
+![image](https://user-images.githubusercontent.com/87333985/138143429-53614452-192e-4315-b047-e312b7ca2894.png)
+
+Cake is a form of sweet food made from flour, sugar, and other ingredients, that
+is usually baked. In their oldest forms, cakes were modifications of bread, but
+cakes now cover a wide range of preparations that can be simple or elaborate,
+and that share features with other desserts such as pastries, meringues,
+custards, and pies.
+
+<details>
+<summary>Geeting Started, Quality Checks & Others</summary>
 
 ## Getting Started
 
@@ -51,3 +64,5 @@ that your code will pass before pushing by running `npm run lint:md` locally.
     merging_"
   - The `master`/`main` branch must "_Require require branches to be up to date
     before merging_"
+
+</details>

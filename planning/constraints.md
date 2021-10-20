@@ -4,19 +4,26 @@ Some boundaries around our project.
 
 ## External
 
-- project deadline Friday 24/10/2021
+- Project deadline Friday 24/10/2021
 
 ## Internal: Involuntary
 
-- skill levels for each member:
+- Coding style & conventions
+
+  - We will use HTML & CSS
+
+- Skill levels for each member:
+
   - Programming skills:
-    - Eduardo:
+    - Eduardo: Some experience with computer languages and websites creation.
+      Learning and updating by doing.
     - Khaled:
-    - Nefn: this is my first time
+    - Nefn: This is my first time.
     - Abdulsamed:
 
-- amount of time available to work on the project (this week):
-  - Eduardo:
+- Amount of time available to work on the project (this week):
+  - Eduardo: Available every day this week because I'm on vacation, but I've
+    been sick for a few days.
   - Khaled:
   - Nefn: sunday, monday, tuesday, thursday, friday 5 hours.
   - Abdulsamed:
