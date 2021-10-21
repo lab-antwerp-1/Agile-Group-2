@@ -162,10 +162,6 @@ pre {
   margin: auto;
 }
 
-.stats .grid h3 {
-  font-size: 35px;
-}
-
 .stats .grid p {
   font-size: 20px;
   font-weight: bold;
@@ -239,6 +235,10 @@ pre {
 /* Docs */
 .docs-main h3 {
   margin: 20px 0;
+}
+
+.stats .grid h3 {
+  font-size: 35px;
 }
 
 .docs-main .grid {
