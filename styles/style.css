@@ -85,17 +85,23 @@ pre {
 /* Showcase */
 .showcase {
   height: 400px;
-  background-color: var(--primary-color);
+/*  background-color: var(--primary-color); */
+  background-color: #fff;
+  background-image: url("../assets/2496.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
   color: #fff;
   position: relative;
 }
 
 .showcase h1 {
   font-size: 40px;
+  color: #000;
 }
 
 .showcase p {
   margin: 20px 0;
+  color: #000;
 }
 
 .showcase .grid {
@@ -106,6 +112,10 @@ pre {
 
 .showcase-text {
   animation: slideInFromLeft 1s ease-in;
+}
+.showcase-text h3 {
+  color: #000;
+  padding-bottom: 20px;
 }
 
 .showcase-form {
@@ -144,11 +154,11 @@ pre {
   bottom: -70px;
   right: 0;
   left: 0;
-  background: #fff;
-  transform: skewY(-3deg);
-  -webkit-transform: skewY(-3deg);
-  -moz-transform: skewY(-3deg);
-  -ms-transform: skewY(-3deg);
+  background: rgb(255, 255, 255);
+  transform: skewY(-4deg);
+  -webkit-transform: skewY(-4deg);
+  -moz-transform: skewY(-4deg);
+  -ms-transform: skewY(-4deg);
 }
 
 /* Stats */
