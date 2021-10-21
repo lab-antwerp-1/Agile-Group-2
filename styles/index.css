@@ -1,1 +1,58 @@
 @import url("./something.css");
+@import url("./something.css");
+ 
+* {
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+  color: #333;
+  line-height: 3.9;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(163, 3, 3);
+}
+
+nav {
+   background-color: coral;
+   color: crimson;
+   height: 70px ;
+ }
+ nav ul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  }
+ .nav .flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+ }
+  nav a{
+    color: darkred;
+    padding: 20px;
+    margin: 0 5px;
+  }
+ 
+  nav a.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+   }
+  
+  nav a:hover {
+    border-bottom: 2px darkred solid;
+  }
+
