@@ -14,19 +14,19 @@ how often will we get in touch on each channel, and what we will discuss there:
 
 | Day       | Eduardo | Khaled |  Nefn   | Abdulsamed |
 | --------- | :-----: | :----: | :-----: | :--------: |
-| Monday    | 10 - 20 |        | 10 - 04 |            |
-| Tuesday   | 10 - 20 |        | 10 - 20 |            |
-| Wednesday | 10 - 20 |        | 10 - 12 |            |
-| Thursday  | 10 - 20 |        | 10 - 20 |            |
-| Friday    | 10 - 20 |        | 10 - 20 |            |
-| Saturday  | 10 - 20 |        | 10 - 20 |            |
+| Monday    | 10 - 20 |        | 10 - 04 |  08 - 22   |
+| Tuesday   | 10 - 20 |        | 10 - 20 |  17 - 22   |
+| Wednesday | 10 - 20 |        | 10 - 12 |  19 - 22   |
+| Thursday  | 10 - 20 |        | 10 - 20 |  10 - 18   |
+| Friday    | 10 - 20 |        | 10 - 20 |  19 - 21   |
+| Saturday  | 10 - 20 |        | 10 - 20 |  10 - 18   |
 
 ### How many hours everyone has per day
 
 - Eduardo: More than 5 hours
 - Khaled:
 - Nefn: _5h_; im free but im busy on monday after 4 and wednsday after 12
-- Abdulsamed:
+- Abdulsamed: Everyday I try to study min 1,5 hour.
 
 ## Asking for Help
 
