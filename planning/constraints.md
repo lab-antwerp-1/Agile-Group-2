@@ -19,14 +19,14 @@ Some boundaries around our project.
       Learning and updating by doing.
     - Khaled:
     - Nefn: This is my first time.
-    - Abdulsamed:
+    - Abdulsamed: I have some experiences in programming languages like Java, C, C++ and HTML.
 
 - Amount of time available to work on the project (this week):
   - Eduardo: Available every day this week because I'm on vacation, but I've
     been sick for a few days.
   - Khaled:
   - Nefn: sunday, monday, tuesday, thursday, friday 5 hours.
-  - Abdulsamed:
+  - Abdulsamed: Monday 5 hours, Saturday 5 hours and Sunday 5 hours
 
 <!--
   constraints that your team decided on to help scope the project. they may include:
