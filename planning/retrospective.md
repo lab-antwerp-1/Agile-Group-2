@@ -19,7 +19,6 @@
 
 ### What parts of your plan did not work out?
 - I expected that we can organize a meeting everybody can join but it didn't happen.
-- 
 ### Did you need to add things that weren't in your strategy?
 
 ### Or remove extra steps?
