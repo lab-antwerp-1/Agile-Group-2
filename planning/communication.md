@@ -13,13 +13,13 @@ how often will we get in touch on each channel, and what we will discuss there:
 ### Availability for calling/messaging
 
 | Day       | Eduardo | Khaled  |  Nefn   | Abdulsamed |
-| --------- | :-----: | :----:  | :-----: | :--------: |
-| Monday    | 10 - 20 | 16 - 22 | 10 - 04 |  08 - 22  |
-| Tuesday   | 10 - 20 | 16 - 22 | 10 - 20 |  17 - 22  |
-| Wednesday | 10 - 20 | 18 - 22 | 10 - 12 |  19 - 22  |
-| Thursday  | 10 - 20 | 18 - 22 | 10 - 20 |  10 - 18  |
-| Friday    | 10 - 20 | 15 - 22 | 10 - 20 |  19 - 21  |
-| Saturday  | 10 - 20 | 11 - 22 | 10 - 20 |  10 - 18  |
+| --------- | :-----: | :-----: | :-----: | :--------: |
+| Monday    | 10 - 20 | 16 - 22 | 10 - 04 |  08 - 22   |
+| Tuesday   | 10 - 20 | 16 - 22 | 10 - 20 |  17 - 22   |
+| Wednesday | 10 - 20 | 18 - 22 | 10 - 12 |  19 - 22   |
+| Thursday  | 10 - 20 | 18 - 22 | 10 - 20 |  10 - 18   |
+| Friday    | 10 - 20 | 15 - 22 | 10 - 20 |  19 - 21   |
+| Saturday  | 10 - 20 | 11 - 22 | 10 - 20 |  10 - 18   |
 
 ### How many hours everyone has per day
 

@@ -54,12 +54,7 @@ nav a.flex {
   height: 100%;
 }
 
-nav a:hover {
-  border-bottom: 2px darkred solid;g
-}
-
 footer > p {
-  display: flex;
   position: fixed;
   bottom: 0;
   left: 1%;
@@ -70,5 +65,8 @@ footer > a {
   display: flex;
   bottom: 0;
   left: 48%;
+}
 
+nav a:hover {
+  border-bottom: 2px darkred solid;
 }

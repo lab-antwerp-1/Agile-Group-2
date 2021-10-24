@@ -19,12 +19,13 @@ Some boundaries around our project.
       Learning and updating by doing.
     - Khaled: Basics knowledge of Java.
     - Nefn: This is my first time.
-    - Abdulsamed: I have some experiences in programming languages like Java, C, C++ and HTML.
+    - Abdulsamed: I have some experiences in programming languages like Java, C,
+      C++ and HTML.
 
 - Amount of time available to work on the project (this week):
   - Eduardo: Available every day this week because I'm on vacation, but I've
     been sick for a few days.
-  - Khaled: ***
+  - Khaled: \*\*\*
   - Nefn: sunday, monday, tuesday, thursday, friday 5 hours.
   - Abdulsamed: Monday 5 hours, Saturday 5 hours and Sunday 5 hours
 
